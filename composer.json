@@ -1,0 +1,16 @@
+{
+    "name": "newishop/newishop-package",
+    "autoload": {
+        "psr-4": {
+            "wfm\\": "vendor/wfm",
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitriy Smolin",
+            "email": "45199267+DmitriySmolin@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
